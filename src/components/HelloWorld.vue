@@ -1,5 +1,5 @@
 <script setup lang="ts">
-export interface IProps {
+interface IProps {
   title?: string;
 }
 

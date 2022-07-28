@@ -1,6 +1,6 @@
 {
   "name": "vite-vue-project",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "type": "module",
   "scripts": {
     "dev": "vite",
@@ -34,6 +34,7 @@
     "typescript": "^4.6.4",
     "vite": "^3.0.0",
     "vite-tsconfig-paths": "^3.5.0",
+    "vue-eslint-parser": "^9.0.3",
     "vue-tsc": "^0.38.4"
   }
 }

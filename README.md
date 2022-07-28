@@ -1,5 +1,5 @@
 <div align="center">
-  <img alt="Vite + Vue Project" src="https://github.com/digikid/vite-vue-project/raw/main/public/images/logo.svg" height="117" />
+  <img alt="Vite + Vue Project" src="https://github.com/digikid/vite-vue-project/raw/main/logo.svg" height="117" />
   <h1>Vite + Vue Project</h1>
   <p>Modern starter template for Vite using Vue and TypeScript</p>
   <p>

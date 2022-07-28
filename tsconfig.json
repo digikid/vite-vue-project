@@ -1,9 +1,9 @@
 {
   "compilerOptions": {
     "target": "ESNext",
-    "useDefineForClassFields": true,
     "module": "ESNext",
     "moduleResolution": "Node",
+    "useDefineForClassFields": true,
     "strict": true,
     "jsx": "preserve",
     "sourceMap": true,
@@ -15,22 +15,16 @@
       "ESNext",
       "DOM"
     ],
-    "types": [
-      "@intlify/vite-plugin-vue-i18n/client"
-    ],
     "baseUrl": "src",
     "paths": {
       "@src/*": [
         "*"
       ],
+      "@typings/*": [
+        "typings/*"
+      ],
       "@components/*": [
         "components/*"
-      ],
-      "@locale/*": [
-        "locale/*"
-      ],
-      "@utils/*": [
-        "utils/*"
       ]
     }
   },
@@ -39,9 +33,6 @@
     "src/**/*.d.ts",
     "src/**/*.tsx",
     "src/**/*.vue"
-  ],
-  "typeRoots": [
-    "src/global.d.ts"
   ],
   "references": [{
     "path": "tsconfig.node.json"

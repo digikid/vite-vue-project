@@ -1,5 +1,5 @@
 <div align="center">
-  <img alt="Vite + Vue Project" src="https://github.com/digikid/vite-vue-project/raw/main/public/images/logo.svg" height="117" />
+  <img alt="Vite + Vue Project" src="https://github.com/digikid/vite-vue-project/raw/main/logo.svg" height="117" />
   <h1>Vite + Vue Project</h1>
   <p>Стартовый шаблон для сборки приложения на Vue и TypeScript</p>
   <p>

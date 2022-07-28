@@ -1,8 +1,16 @@
 {
+  "parser": "vue-eslint-parser",
+  "parserOptions": {
+    "project": "tsconfig.json",
+    "ecmaVersion": "latest",
+    "parser": "@typescript-eslint/parser"
+  },
   "extends": [
-    "plugin:vue/vue3-recommended",
+    "eslint:recommended",
     "@vue/typescript/recommended",
-    "airbnb-base"
+    "plugin:vue/vue3-recommended",
+    "airbnb-base",
+    "airbnb-typescript/base"
   ],
   "plugins": [
     "@typescript-eslint"
@@ -12,6 +20,11 @@
     "browser": true,
     "es6": true
   },
+  "globals": {
+    "defineProps": "readonly",
+    "defineEmits": "readonly",
+    "withDefaults": "readonly"
+  },
   "settings": {
     "import/resolver": {
       "typescript": {}
@@ -20,6 +33,15 @@
   "ignorePatterns": [
     "*.config.js"
   ],
+  "overrides": [{
+    "files": [
+      "*.ts",
+      "*.vue"
+    ],
+    "rules": {
+      "no-undef": "off"
+    }
+  }],
   "rules": {
     "import/prefer-default-export": "off"
   }
