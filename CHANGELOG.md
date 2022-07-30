@@ -1,5 +1,17 @@
 # Release Notes
 
+[1.0.3]: https://github.com/digikid/vite-vue-project/releases/tag/1.0.3
+
+## [1.0.3] - 2022-07-30
+
+### Updates
+
+- All dependencies updated to their latest versions
+
+### Bug Fixes
+
+- Move `@headlessui/vue` to main dependencies
+
 [1.0.2]: https://github.com/digikid/vite-vue-project/releases/tag/1.0.2
 
 ## [1.0.2] - 2022-07-25
