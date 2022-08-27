@@ -1,5 +1,13 @@
 # Release Notes
 
+[1.1.1]: https://github.com/digikid/vite-vue-project/releases/tag/1.1.1
+
+## [1.1.1] - 2022-08-28
+
+### Bug Fixes
+
+- Updated ESLint config for correct linting SFC files
+
 [1.1.0]: https://github.com/digikid/vite-vue-project/releases/tag/1.1.0
 
 ## [1.1.0] - 2022-08-27
