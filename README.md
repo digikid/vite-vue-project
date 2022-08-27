@@ -1,7 +1,7 @@
 <div align="center">
   <img alt="Vite + Vue Project" src="https://github.com/digikid/vite-vue-project/raw/main/logo.svg" height="117" />
   <h1>Vite + Vue Project</h1>
-  <p>Modern starter template for Vite using Vue and TypeScript</p>
+  <p>Modern starter template for Vite with Vue and TypeScript</p>
   <p>
     <b>English</b> | <a href="https://github.com/digikid/vite-vue-project/blob/main/README.ru-RU.md">Русский</a></p>
   <img src="https://img.shields.io/github/release/digikid/vite-vue-project.svg?style=flat-square&logo=appveyor" alt="Release version">
@@ -76,7 +76,7 @@ By default, all path aliases declared in `tsconfig.json` file are imported into 
 
 ## Browser Support
 
-Only the latest versions of major browsers (e.g. Chrome, Firefox, Safari, Edge etc) are supported. 
+Only the latest versions of major browsers (e.g. Chrome, Firefox, Safari, Edge etc) are supported.
 
 <img src="https://github.com/digikid/vite-vue-project/raw/main/public/images/chrome.svg" width="64" height="64" alt="Chrome"> <img src="https://github.com/digikid/vite-vue-project/raw/main/public/images/firefox.svg" width="64" height="64" alt="Firefox"> <img src="https://github.com/digikid/vite-vue-project/raw/main/public/images/edge.svg" width="64" height="64" alt="Edge"> <img src="https://github.com/digikid/vite-vue-project/raw/main/public/images/safari.svg" width="64" height="64" alt="Safari"> <img src="https://github.com/digikid/vite-vue-project/raw/main/public/images/opera.svg" width="64" height="64" alt="Opera">
 

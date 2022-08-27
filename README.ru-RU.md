@@ -1,7 +1,7 @@
 <div align="center">
   <img alt="Vite + Vue Project" src="https://github.com/digikid/vite-vue-project/raw/main/logo.svg" height="117" />
   <h1>Vite + Vue Project</h1>
-  <p>Стартовый шаблон для сборки приложения на Vue и TypeScript</p>
+  <p>Стартовый Vite шаблон для сборки приложения на Vue и TypeScript</p>
   <p>
     <a href="https://github.com/digikid/vite-vue-project/blob/main/README.md">English</a> | <b>Русский</b></p>
   <img src="https://img.shields.io/github/release/digikid/vite-vue-project.svg?style=flat-square&logo=appveyor" alt="Release version">

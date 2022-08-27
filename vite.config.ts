@@ -4,7 +4,7 @@ import { compilerOptions } from './tsconfig.json';
 
 import vue from '@vitejs/plugin-vue';
 import tsConfigPaths from 'vite-tsconfig-paths';
-import postcss from './postcss.config.js';
+import postcssConfig from './postcss.config.js';
 
 const { baseUrl, paths: aliases } = compilerOptions;
 
@@ -28,9 +28,10 @@ export default defineConfig({
     alias
   },
   css: {
-    postcss,
+    postcss: postcssConfig,
   },
   server: {
     open: true,
+    host: true,
   },
 });

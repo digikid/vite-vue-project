@@ -2,4 +2,3 @@ dist
 docs
 public
 index.html
-vite.config.ts

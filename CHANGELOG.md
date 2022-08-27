@@ -1,5 +1,18 @@
 # Release Notes
 
+[1.1.0]: https://github.com/digikid/vite-vue-project/releases/tag/1.1.0
+
+## [1.1.0] - 2022-08-27
+
+### Updates
+
+- All dependencies updated to their latest versions
+
+### Bug Fixes
+
+- Fixed ESLint parsing error caused incorrect js files linting
+- Downgrading ESLint because their latest version causes an [error in IntelliJ IDE](https://youtrack.jetbrains.com/issue/WEB-57089/ESLint823-TypeError-thislibOptionsparse-is-not-a-function)
+
 [1.0.3]: https://github.com/digikid/vite-vue-project/releases/tag/1.0.3
 
 ## [1.0.3] - 2022-07-30

@@ -8,7 +8,7 @@ import defaultTheme from 'tailwindcss/defaultTheme.js';
 export default {
   content: [
     './index.html',
-    './src/**/*.{vue,js,ts,jsx,tsx}',
+    './src/**/*.{vue,js,jsx,ts,tsx}',
   ],
   theme: {
     extend: {
