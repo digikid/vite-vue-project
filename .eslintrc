@@ -42,9 +42,10 @@
       "airbnb-typescript/base"
     ],
     "rules": {
-        "no-undef": "off"
-      }
+      "no-undef": "off",
+      "@typescript-eslint/no-explicit-any": "off"
     }
+  }
   ],
   "rules": {
     "import/prefer-default-export": "off"

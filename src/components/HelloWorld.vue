@@ -26,7 +26,7 @@ const includes: string[][] = [
       <h1 class="text-4xl md:text-5xl font-black mb-3">
         {{ title }}
       </h1>
-      <h2 class="text-xl md:text-3xl font-bold mb-5 text-slate-300 mb-7">
+      <h2 class="text-xl md:text-3xl font-bold text-slate-300 mb-7">
         Modern starter template for Vite using Vue and TypeScript
       </h2>
       <h3
@@ -43,7 +43,7 @@ const includes: string[][] = [
           <img
             :src="`images/${include[0]}.svg`"
             :alt="include[1]"
-            class="mx-auto mb-3 h-[120px] md:h-[80px] mb-7"
+            class="mx-auto h-[120px] md:h-[80px] mb-7"
           >
           <h4 class="text-2xl font-bold leading-snug tracking-tight mb-1">
             {{ include[1] }}

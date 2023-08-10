@@ -15,23 +15,13 @@
       "ESNext",
       "DOM"
     ],
-    "baseUrl": "src",
+    "baseUrl": ".",
     "paths": {
-      "@src/*": [
-        "*"
-      ],
-      "@typings/*": [
-        "typings/*"
-      ],
-      "@components/*": [
-        "components/*"
-      ]
+      "@/*": ["src/*"]
     }
   },
   "include": [
-    "src/**/*.ts",
-    "src/**/*.tsx",
-    "src/**/*.vue"
+    "src/**/*"
   ],
   "references": [{
     "path": "tsconfig.node.json"

@@ -2,12 +2,18 @@
 
 [1.1.2]: https://github.com/digikid/vite-vue-project/releases/tag/1.1.2
 
-## [1.1.2] - 2023-08-10
+## [1.1.2] - 2023-08-11
 
 ### Updates
 
-- Remove [line-clamp](https://github.com/tailwindlabs/tailwindcss-line-clamp) plugin (deprecated in Tailwind v3.3)
+- Move typing files to `src` folder
+- Update configuration files
 - All dependencies updated to their latest versions
+
+### Remove
+
+- [line-clamp](https://github.com/tailwindlabs/tailwindcss-line-clamp) plugin (deprecated in Tailwind v3.3)
+- [vite-tsconfig-paths](https://www.npmjs.com/package/vite-tsconfig-paths) package
 
 [1.1.1]: https://github.com/digikid/vite-vue-project/releases/tag/1.1.1
 
