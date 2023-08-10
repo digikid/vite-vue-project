@@ -11,7 +11,7 @@
 
 ## О шаблоне
 
-Этот шаблон позволяет без предварительной настройки начать разработку в [Vite]( https://vitejs.dev/) с использованием [Vue](https://vuejs.org/), [TypeScript](https://www.typescriptlang.org/) и набора современных UI инструментов.
+Этот шаблон позволяет без предварительной настройки начать разработку в [Vite]( https://vitejs.dev/) с использованием [Vue](https://vuejs.org/), [TypeScript](https://www.typescriptlang.org/) и набора современных UI-инструментов.
 
 ## Что включено
 
@@ -27,7 +27,6 @@ CSS-фреймворк, предлагающий обширный каталог
 
 - [forms](https://github.com/tailwindlabs/tailwindcss-forms)
 - [typography](https://github.com/tailwindlabs/tailwindcss-typography)
-- [line-clamp](https://github.com/tailwindlabs/tailwindcss-line-clamp)
 - [aspect-ratio](https://github.com/tailwindlabs/tailwindcss-aspect-ratio)
 
 Утилита нового поколения для добавления префиксов к экспериментальным свойствам из CSS 3 на основе [Can I Use](https://caniuse.com/).
@@ -46,7 +45,7 @@ CSS-фреймворк, предлагающий обширный каталог
 
 - [Inter var](https://github.com/rsms/inter) (self-hosted)
 
-### Проверка кода
+### Качество кода
 
 Линтер с открытым исходным кодом, который помогает находить и устранять проблемы с JavaScript кодом.
 

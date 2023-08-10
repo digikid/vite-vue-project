@@ -1,5 +1,14 @@
 # Release Notes
 
+[1.1.2]: https://github.com/digikid/vite-vue-project/releases/tag/1.1.2
+
+## [1.1.2] - 2023-08-10
+
+### Updates
+
+- Remove [line-clamp](https://github.com/tailwindlabs/tailwindcss-line-clamp) plugin (deprecated in Tailwind v3.3)
+- All dependencies updated to their latest versions
+
 [1.1.1]: https://github.com/digikid/vite-vue-project/releases/tag/1.1.1
 
 ## [1.1.1] - 2022-08-28

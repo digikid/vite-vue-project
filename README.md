@@ -27,7 +27,6 @@ This template also includes first-party plugins needed for [Tailwind UI](https:/
 
 - [forms](https://github.com/tailwindlabs/tailwindcss-forms)
 - [typography](https://github.com/tailwindlabs/tailwindcss-typography)
-- [line-clamp](https://github.com/tailwindlabs/tailwindcss-line-clamp)
 - [aspect-ratio](https://github.com/tailwindlabs/tailwindcss-aspect-ratio)
 
 [PostCSS](https://github.com/postcss/postcss) plugin to parse CSS and add vendor prefixes to CSS rules using values from [Can I Use](https://caniuse.com/). It is recommended by Google and used in Twitter and Alibaba.

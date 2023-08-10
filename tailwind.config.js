@@ -1,9 +1,8 @@
 import forms from '@tailwindcss/forms';
 import typography from '@tailwindcss/typography';
-import lineClamp from '@tailwindcss/line-clamp';
 import aspectRatio from '@tailwindcss/aspect-ratio';
 
-import defaultTheme from 'tailwindcss/defaultTheme.js';
+import defaultTheme from 'tailwindcss/defaultTheme';
 
 export default {
   content: [
@@ -23,7 +22,6 @@ export default {
   plugins: [
     forms,
     typography,
-    lineClamp,
     aspectRatio
   ],
 };
